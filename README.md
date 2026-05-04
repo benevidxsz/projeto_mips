@@ -1,6 +1,3 @@
-# projeto_mips
-Projeto MIPS - Arquitetura de Computadores
-
 # 🖥️ Projeto Processador MIPS — Arquitetura de Computadores
 
 Implementação de um processador MIPS monociclo simplificado utilizando o simulador de circuitos digitais **Logisim**. O projeto abrange o datapath completo com suporte a instruções do tipo R, I e J, memória de instruções (ROM), memória de dados (RAM), banco de registradores, ULA com múltiplas operações e unidades de controle.
