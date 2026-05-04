@@ -8,11 +8,11 @@ Implementação de um processador MIPS monociclo simplificado utilizando o simul
 
 | Nome |
 |------|
-| Arthur Benevides |
-| Juan Haddad |
-| Guilherme Teixeira |
-| Murillo Ando |
-| Guilherme Peixirile |
+| Arthur Benevides | 082230016 |
+| Guilherme Peixirile | 082230010
+| Guilherme Teixeira | 081240041 |
+| Juan Haddad | 081240043 |
+| Murillo Ando | 082240042 |
 
 ---
 
