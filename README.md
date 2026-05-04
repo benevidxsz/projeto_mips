@@ -89,7 +89,7 @@ O processador é dividido em **6 circuitos** dentro do arquivo `.circ`:
 
 ## 📄 Documentação Técnica
 
-Consulte o arquivo **`Documentacao_Tecnica_MIPS.docx`** para:
+Consulte o arquivo **`Documentacao_MIPS_Detalhada.docx`** para:
 
 - Diagrama de blocos detalhado da arquitetura
 - Descrição de cada módulo e seus componentes internos
