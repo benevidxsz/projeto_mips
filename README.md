@@ -7,7 +7,7 @@ Implementação de um processador MIPS monociclo simplificado utilizando o simul
 ## 👥 Integrantes
 
 | Nome | RA |
-|------|
+|------|----|
 | Arthur Benevides | 082230016 |
 | Guilherme Peixirile | 082230010 |
 | Guilherme Teixeira | 081240041 |
